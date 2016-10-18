@@ -1,0 +1,14 @@
+{
+    "name": "ECMAScript6Tutorial",
+    "version": "1.0.0",
+    "description": "ECMAScript 6 Tutorial + webpack",
+    "author": "Katryn Dmitruk <dmytrukk@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KatrynDm7/ECMAScript6Tutorial.git"
+    },
+    "dependencies": {
+        "webpack": "^1.13.2"
+    }
+}
