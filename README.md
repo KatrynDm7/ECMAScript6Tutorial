@@ -6,6 +6,7 @@ ECMAScript 6 tutorial + webpack
     <li>npm i babel-loader babel-core babel-preset-es2015 babel-plugin-transform-es2015-modules-commonjs</li>
     <li>npm install</li>
     <li>use 'static &' for starting static server in terminal (Linux), cmd (Windows)</li>
+    <li>go to http://127.0.0.1:8080 and open console of your browser - result will be here</li>
 </ul>
 
 ###Notes###
